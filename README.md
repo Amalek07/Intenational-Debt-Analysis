@@ -30,7 +30,7 @@ The main objectives of this project are:
 
 ---
 
-# 🔄 End-to-End Project Workflow
+#  End-to-End Project Workflow
 
 ```text
 Raw CSV Datasets
@@ -89,7 +89,7 @@ The original dataset contained separate year columns. During preprocessing, thes
 
 ---
 
-# 🐍 Python Data Preprocessing
+#  Python Data Preprocessing
 
 The complete preprocessing workflow is contained in:
 
