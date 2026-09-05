@@ -41,9 +41,9 @@ def create_connection():
 
         user="root",
 
-        password="amalek",
+        password="SQL PASSWORD",
 
-        database="debt"
+        database="DATABASE NAME"
 
     )
 
